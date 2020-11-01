@@ -5,4 +5,7 @@ Libraries Used
 sounddevice
 soundfile
 tkinter 
+sound file = pip install SoundFile
+sounddevice = pip install sounddevice
+tkinter = pip install tkinter
 
